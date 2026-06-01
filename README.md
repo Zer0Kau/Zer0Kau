@@ -62,4 +62,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoel-benedito-1b10682ab/)](https://www.linkedin.com/in/emanoel-benedito-1b10682ab/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:windezin@gmail.com)](mailto:windezin@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Zer0Kau)
+[![GitHub](https://img.shields.io/github/followers/Zer0Kau?label=follow&style=social)](https://github.com/Zer0Kau)
