@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?account_id=182169191)
+![](https://komarev.com/ghpvc/?username=Zer0Kau&color=006bed)
 
 ## Sobre mim
 
